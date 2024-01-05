@@ -1,0 +1,7 @@
+
+<window title="My First ZK Application" 
+        border="normal" 
+        apply="modules.composers.Composer">
+    Hello World!
+        
+</window>
